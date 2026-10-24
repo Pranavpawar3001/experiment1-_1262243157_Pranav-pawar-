@@ -1,0 +1,40 @@
+CCA3 THINK ALOUD TRANSCRIPT TEMPLATE — SUPERTAILS
+Use one copy per participant. Transcribe what was actually said; do not create sample quotes and present them as real data.
+
+Participant ID: P04
+Date/time: [ ]
+Consent to audio recording: [Yes/No]
+Moderator: [ ]
+Original website URL: [ ]
+Figma prototype URL/version: [ ]
+Identical task given in both versions: [ ]
+
+SESSION A — ORIGINAL WEBSITE
+Start/end time: [ ]
+Verbatim transcript with timestamps:
+[00:00] Moderator: Please try to complete the task and say aloud what you are thinking.
+[00:__] Participant: [TRANSCRIBE ACTUAL WORDS]
+[00:__] Participant: [TRANSCRIBE ACTUAL WORDS]
+Observed hesitation/errors/help requested: [FACTUAL NOTES]
+Task completed? [Yes/No/Partly]
+Time on task, if measured: [ ]
+
+SESSION B — MODIFIED FIGMA PROTOTYPE
+Start/end time: [ ]
+Verbatim transcript with timestamps:
+[00:00] Moderator: Please complete the same task in the prototype and keep thinking aloud.
+[00:__] Participant: [TRANSCRIBE ACTUAL WORDS]
+[00:__] Participant: [TRANSCRIBE ACTUAL WORDS]
+Observed hesitation/errors/help requested: [FACTUAL NOTES]
+Task completed? [Yes/No/Partly]
+Time on task, if measured: [ ]
+
+IMMEDIATE COMPARISON
+What was easier/harder in the prototype, according to the participant? [ACTUAL RESPONSE]
+Did the redesign address a problem observed on the original? [Evidence; do not assume]
+Unresolved problem(s): [ ]
+Potential theme tags: login / navigation / product information / delivery clarity / vet booking / accessibility / multi-pet / other: [ ]
+Useful exact quote(s): [Quote actual transcript and timestamp]
+Researcher reflection (separate from participant words): [ ]
+
+Repeat this template for P01 through P05. Store consented recordings in audio_files/ and transcripts in transcripts/. Do not publish identifiable or sensitive voice recordings without informed consent; anonymize participant names.

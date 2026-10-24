@@ -1,0 +1,9 @@
+SURVEY ANALYSIS INSTRUCTIONS
+1. Export or copy the actual responses from the prescribed Google Form. Do not fill scores based on guesses.
+2. Use the exact UX parameter labels and scale from the form. This template has ten placeholder rows; replace/add rows as needed.
+3. Enter each participant's original and prototype score in paired columns. Leave missing responses blank; never enter 0 for a missing answer unless 0 is a valid submitted score.
+4. Calculate the original mean and prototype mean from valid responses for each condition, and the difference = prototype mean - original mean.
+5. Confirm whether higher scores indicate better UX before interpreting positive/negative differences.
+6. If the form uses non-numeric categories, summarize counts/percentages instead of calculating a mean.
+7. Report the number of valid paired responses and mention missing data.
+8. Do not claim statistical significance from five participants. Treat results as descriptive.
